@@ -11,3 +11,5 @@ func TestAdd(t *testing.T){
         t.Errorf("got %q, wanted %q", got, want)
     }
 }
+On branch main
+Your branch is up to date with 'origin/main'.
